@@ -1,0 +1,8 @@
+analysis_path: "./"
+
+populations:
+  - TSI
+  - IBS
+  - FIN
+  - GBR
+  - CEU
